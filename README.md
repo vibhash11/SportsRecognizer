@@ -1,2 +1,2 @@
 # SportsRecognizer
-Novice app to recognize the sport being played in an image fetched through a url.
+An app developed using Heroku, StreamLit, and FastAi where user can provide an URL to an image of a particular sport and the app tries to recognize said sport. As of now, it can only distinguish between six types of sports but can easily be extended to recognize more of them. You can check out the project live [here](https://sports-recognizer.herokuapp.com/). Feel free to edit the code as you like! And do let me know if it helps you.
